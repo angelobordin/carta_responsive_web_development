@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    background-color: white;
+    border-radius: 14px;
+    padding: 15px;
+    margin-top: 30vh;
+    width: 20%;
+    height: 40%;
+}
+
+.title {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+
+span {
+    font: bold;
+    font-size: x-large;
+}
+
+code {
+    background-color: gray;
+    padding: 5px;
+    border: 1px solid rgba(56, 56, 56, 0.933);
+}
